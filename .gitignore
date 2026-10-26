@@ -1,0 +1,15 @@
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Experiment outputs
+results/
+
+# System files
+.DS_Store
